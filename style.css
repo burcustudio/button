@@ -1,0 +1,126 @@
+.subscribe-button {
+    background-color: rgb(200, 0, 0);
+    color: #fff;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 10px;
+
+}
+
+.join-button{
+background-color: #fff;
+border-color: #0c45a8;
+border-style:solid;
+border-width: 1px;
+cursor: pointer;
+color: #2062b9;
+height: 36px;
+width: 62px;
+border-radius: 2px;
+
+}
+.join-button:hover{
+    background-color: #0c45a8;
+    color: #fff;
+
+
+}
+
+.join-button:active{
+    opacity: 0.7;
+}
+
+.tweet-button:hover{
+    opacity: 0.6;
+}
+
+.tweet-button:active{
+    opacity: 0.4;
+   
+}
+
+.tweet-button{
+    background-color: #2faee4;
+    color: #fff;
+    border-radius: 18px;
+    cursor: pointer;
+    border-style: solid;
+    width: 80px;
+    height: 36px;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 8px;
+   
+}
+
+.request-button{
+
+background-color: black;
+color: #fff;
+border: none;
+width: 110px;
+height: 40px;
+margin-left: 10px;
+cursor: pointer;
+}
+
+.add-to-cart-button
+{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+a{
+    margin-left: 30px;
+    color: rgb(0, 113, 133);
+    font-size: 20px;
+}
+
+h1{
+    margin-left: 30px;
+}
+
+.price{
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.free-delivery-tomorrow{
+    color: black;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.add-to-cart{
+    background-color: rgb(255, 216, 20);
+    width: 120px;
+    height: 35px;
+    border-radius: 17px;
+    border: none;
+    margin-left: 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.buy-now-button{
+    background-color: rgb(255, 164, 28);
+    border: none;
+    width: 120px;
+    height: 35px;
+    border-radius: 17px;
+    font-size: 15px;
+    cursor: pointer;
+}
